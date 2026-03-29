@@ -157,7 +157,7 @@ st.markdown("---")
 # ── Carga del modelo entrenado ───────────────────────────────────────────────
 @st.cache_resource
 def cargar_modelo():
-    ruta_modelo = os.path.join(os.getcwd(), "modelo_razas.keras")
+    ruta_modelo = os.path.join(os.getcwd(), "mejor_modelo.keras")
 
     if not os.path.exists(ruta_modelo):
         st.error(f"❌ Modelo no encontrado en: {ruta_modelo}")
