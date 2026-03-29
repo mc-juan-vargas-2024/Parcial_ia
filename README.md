@@ -8,7 +8,7 @@
 
 ## 🚀 App en Streamlit
 
-> 🔗 **[https://parcialia-ftjwzkz9aqxdcvvpvvc8yt.streamlit.app]()**
+> 🔗 **[https://parcialia-ftjwzkz9aqxdcvvpvvc8yt.streamlit.app/]()**
 
 ---
 
