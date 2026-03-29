@@ -223,7 +223,7 @@ if uploaded:
         else:
             with st.spinner("Analizando imagen..."):
                 # Preprocesamiento: redimensionar a 100x100 y normalizar a [0, 1]
-                img_resized = img.resize((100, 100))
+                img_resized = img.resize((128, 128))
                 img_array  = np.array(img_resized).astype("float32") / 255.0
                 img_array  = np.expand_dims(img_array, axis=0)  # Agregar dimensión de batch
 
