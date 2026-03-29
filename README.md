@@ -1,14 +1,14 @@
 # 🐶 Clasificación de Razas de Perros con CNN
 
 **Estudiante:** Juan Jose Vargas Correa
-**Asignatura:** Inteligencia Artificial — Parcial CNN
+**Asignatura:** Ciencia de Datos — Parcial CNN
 **Dataset:** Stanford Dogs · 120 razas · 20.580 imágenes
 
 ---
 
 ## 🚀 App en Streamlit
 
-> 🔗 **[Pegar link aquí]()**
+> 🔗 **[https://parcialia-ftjwzkz9aqxdcvvpvvc8yt.streamlit.app]()**
 
 ---
 
